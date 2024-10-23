@@ -349,7 +349,7 @@ local footer = {
     "",
     "",
     "Neovim " .. get_neovim_version(),
-    "󰟪'ed by Zedro",
+    "󰟪'ed by jpedro-f",
   },
   opts = {
     position = "center",
